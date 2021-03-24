@@ -37,20 +37,25 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![✔] http://g.recordit.co/LIBRUhYpdd.gif
+![✔] 
+http://g.recordit.co/LIBRUhYpdd.gif
 
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 w3schools.com
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 One challenge I encountered when working on this project was trying to understand what was given to me to begin with. Often times when working with others and reviewing work not of my own, it can be hard to understand what the lines of code mean and how they interact with each other, so making sure I took the time to understand the code is always a challenge. The comments make a huge difference when reading code!
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 What are the limits of web development? What are some ways to better hone skills as a web developer? When it comes to building a website from scratch what are some tips in tackling that on your own?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 I think it would be super fun to work on the styling! I think making the entire webpage more unique is always something exciting to do because you can spend countless hours trying to express only what you can express. Making buttons poppy, adding some animations to the text when hovering over them, and even creating some whacky buttons for the user to press. Making the webpage look extraordinary!
 
 
